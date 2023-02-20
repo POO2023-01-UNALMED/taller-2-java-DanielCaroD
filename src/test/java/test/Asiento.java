@@ -5,6 +5,7 @@ public class Asiento {
 	int precio;
 	int registro;
 
-	public void cambiarColor(color: amarillo) {
+	void cambiarColor(color: amarillo) {
+		color = this.color
 	}
 }
