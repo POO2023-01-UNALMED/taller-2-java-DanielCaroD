@@ -5,7 +5,8 @@ public class Asiento {
 	int precio;
 	int registro;
 	
-	void cambiarColor(String color) {
-		this.color = color;
+	public void cambiarColor(String color) {
+		this.color = new.color;
+		new.color = amarillo;
 	}
 }
